@@ -1,34 +1,24 @@
-# HousingFirst-AU
+**Project Summary**
 
-Project Summary
+Housing First Australia International Business Consulting Project
+- Managed an international analytics project for HousingFirst, analyzing maintenance data and resident survey data
+- Conducted analysis to identify key drivers of resident satisfaction
+- Presented insights and operational recommendations to CEO and COO to enhance overall resident satisfaction
 
-KPMG AU Data Analytics Job Simulation on Forage - November 2023
+**Challenges**
+- rapid growth due to HousingFirst's recent expansion has driven down resident satisfaction rates
 
-Completed a simulation focused on advising a client on customer targeting with the Data, Analytics & Modelling team
+**Technology Used**
+- Python
+- Tableau
+- Powerpoint
 
-Assessed data quality and completeness in preparation for analysis
+**Techniques Used**
+- Natural Language Processing
+  - Latent Dirichlet allocation (LDA) to identify most common topics in responses to Question 35 
+- Correlation Analysis
+  - Pearson Correaltion Coefficient for variable correlation to Survey Question 35
+  - Q35: Taking everything into account, how satisfied or dissatisfied are you with the services provided by us?
 
-Analysed data to target high-value customers based on demographics and attributes
+**Conclusions**
 
-Developed dashboards to communicate findings with visuals
-
-Challenges
-
-identify data quality issues for clients current data
-creating the variables for which customer value should be measured by
-identify what groups of customers to target
-Technology Used
-
-Python
-Tableau
-Excel
-Techniques Used
-
-performed exploratory data analysis using python to identify data quality issues and outliers
-utilized Recency Frequency Monetary Scoring to segment customers
-performed K-means clustering with RFM segments to identify target groups
-Conclusions
-
-Consumers in Cluster 1 should be targeted as they yield the highest average RFM score and bring in the most Revenue
-Cluster 1 likely represents existing customers who may need re-engagement efforts to bring them back for future purchases.
-Cluster 2 likely represents new or potentially low-value customers who may require nurturing and incentivization to increase their frequency and monetary value over time which can be costly to execute
