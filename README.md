@@ -40,3 +40,28 @@ Housing First Australia International Business Consulting Project
   - Q16b How well you were kept informed about the progress of your complaint
   - Q16a The information and advice provided by staff
   - Q18	Overall, how satisfied or dissatisfied are you with the condition of your home?
+ 
+**Correlation Analysis Visualizations** 
+![top10corr_descriptions](https://github.com/samgeles/HousingFirst-AU/assets/143467895/b0cb52dd-fa56-4148-b52c-9a20132f1719)
+
+![top10correlations](https://github.com/samgeles/HousingFirst-AU/assets/143467895/1c213ec9-9166-4e30-ba62-f13fb2ed6bf2)
+
+**LDA Visualizations**
+![LDA_results](https://github.com/samgeles/HousingFirst-AU/assets/143467895/040e0191-1961-4734-bbfc-cdbfadaa42fe)
+
+![TopicPrevalenceBarChart](https://github.com/samgeles/HousingFirst-AU/assets/143467895/3b853e5e-657a-4d06-9b6d-bb801012dac2)
+
+![TopicDistPieChart](https://github.com/samgeles/HousingFirst-AU/assets/143467895/579d7e3c-a65b-4595-844e-3a703d67428f)
+
+**Maintenance Data Analysis** 
+![Vis 1](https://github.com/samgeles/HousingFirst-AU/assets/143467895/8c7adf8b-ea1f-4114-a92a-d3ecacba27c4)
+
+![Vis 2](https://github.com/samgeles/HousingFirst-AU/assets/143467895/38718bb7-b764-43d0-a98e-6e36fe3ab11e)
+
+![Vis 3](https://github.com/samgeles/HousingFirst-AU/assets/143467895/d8cc4a1e-88e2-4de7-bb35-12ef7b1e0d2f)
+
+
+
+
+
+
